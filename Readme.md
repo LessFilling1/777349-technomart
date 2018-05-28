@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Sergey Avraimov](https://up.htmlacademy.ru/htmlcss/21/user/777349).
-* Наставник: `Неизвестно`.
+* Наставник: [Инна Кришталь](https://htmlacademy.ru/profile/id43485).
 
 ---
 
